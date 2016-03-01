@@ -14,5 +14,6 @@ if ( get_stylesheet() !== get_template() ) {
         return get_option( 'theme_mods_' . get_template(), $default );
     } );
 }
+//testiiiiiii
 ?>
 	
